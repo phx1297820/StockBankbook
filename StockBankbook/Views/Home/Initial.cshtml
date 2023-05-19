@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>初始設定</title>
+    <script src="~/JS/InitialJS.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.4.0/axios.min.js"></script>
+    <link rel="stylesheet" href="~/CSS/InitialCSS.css">
+</head>
+<body>
+    <h2>初始設定</h2>
+    <form action="~/Home/Initial" method="post" onsubmit="return confirm('確認完成設定')">
+
+        <input name="__RequestVerificationToken" type="hidden" value="" />
+
+        <div class="form-horizontal">
+            <hr />
+            <fieldset>
+                <legend>現金資訊</legend>
+                <label for="Balance">目前餘額</label>
+                <input id="Balance" name="Balance" required type="number" />
+                <label for="Cost">累計成本</label>
+                <input id="Cost" name="Cost" required type="number" />
+                <span class="field-validation-valid text-danger" data-valmsg-for="IO" data-valmsg-replace="true"></span>
+            </fieldset>
+
+            <br />
+
+            <fieldset>
+                <legend>股票資訊</legend>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>股票代碼</th>
+                            <th>股票名稱</th>
+                            <th>持有數量</th>
+                            <th>付出成本</th>
+                        </tr>
+                    </thead>
+                    <tbody id="HeldStockList">
+                        <tr>
+                            <td><input name="StockSymbol" /></td>
+                            <td><input name="StockName" /></td>
+                            <td><input name="StockQuantity" type="number"/></td>
+                            <td><input name="StockTotalCost" type="number"/></td>
+                        </tr> 
+                    </tbody>
+                </table>
+                <input type="button" onclick="addStock()" value="+">
+                <span class="field-validation-valid text-danger" data-valmsg-for="Summary" data-valmsg-replace="true"></span>
+            </fieldset>
+            <br />
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="設定完成" class="btn btn-primary" />
+                </div>
+            </div>
+        </div>
+    </form>
+
+</body>
+</html>

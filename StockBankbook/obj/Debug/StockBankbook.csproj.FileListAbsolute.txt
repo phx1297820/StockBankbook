@@ -1,0 +1,182 @@
+F:\C#\StockBankbook\StockBankbook\bin\StockBankbook.dll.config
+F:\C#\StockBankbook\StockBankbook\bin\StockBankbook.dll
+F:\C#\StockBankbook\StockBankbook\bin\StockBankbook.pdb
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\csc.exe
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\csc.exe.config
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\csc.rsp
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\csi.exe
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\csi.exe.config
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\csi.rsp
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\Microsoft.Managed.Core.targets
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.AppContext.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Collections.Immutable.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Console.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Globalization.Calendars.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.IO.Compression.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.IO.FileSystem.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Net.Http.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Net.Sockets.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Reflection.Metadata.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.ValueTuple.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Xml.XmlDocument.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Xml.XPath.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\vbc.exe
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\vbc.exe.config
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\vbc.rsp
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\VBCSCompiler.exe
+F:\C#\StockBankbook\StockBankbook\bin\roslyn\VBCSCompiler.exe.config
+F:\C#\StockBankbook\StockBankbook\bin\Antlr3.Runtime.dll
+F:\C#\StockBankbook\StockBankbook\bin\EntityFramework.dll
+F:\C#\StockBankbook\StockBankbook\bin\EntityFramework.SqlServer.dll
+F:\C#\StockBankbook\StockBankbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\C#\StockBankbook\StockBankbook\bin\Microsoft.Web.Infrastructure.dll
+F:\C#\StockBankbook\StockBankbook\bin\Newtonsoft.Json.dll
+F:\C#\StockBankbook\StockBankbook\bin\System.Web.Helpers.dll
+F:\C#\StockBankbook\StockBankbook\bin\System.Web.Mvc.dll
+F:\C#\StockBankbook\StockBankbook\bin\System.Web.Optimization.dll
+F:\C#\StockBankbook\StockBankbook\bin\System.Web.Razor.dll
+F:\C#\StockBankbook\StockBankbook\bin\System.Web.WebPages.Deployment.dll
+F:\C#\StockBankbook\StockBankbook\bin\System.Web.WebPages.dll
+F:\C#\StockBankbook\StockBankbook\bin\System.Web.WebPages.Razor.dll
+F:\C#\StockBankbook\StockBankbook\bin\WebGrease.dll
+F:\C#\StockBankbook\StockBankbook\bin\EntityFramework.xml
+F:\C#\StockBankbook\StockBankbook\bin\EntityFramework.SqlServer.xml
+F:\C#\StockBankbook\StockBankbook\bin\System.Web.Helpers.xml
+F:\C#\StockBankbook\StockBankbook\bin\System.Web.Mvc.xml
+F:\C#\StockBankbook\StockBankbook\bin\System.Web.Optimization.xml
+F:\C#\StockBankbook\StockBankbook\bin\System.Web.Razor.xml
+F:\C#\StockBankbook\StockBankbook\bin\System.Web.WebPages.xml
+F:\C#\StockBankbook\StockBankbook\bin\System.Web.WebPages.Deployment.xml
+F:\C#\StockBankbook\StockBankbook\bin\System.Web.WebPages.Razor.xml
+F:\C#\StockBankbook\StockBankbook\bin\Newtonsoft.Json.xml
+F:\C#\StockBankbook\StockBankbook\bin\Antlr3.Runtime.pdb
+F:\C#\StockBankbook\StockBankbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\C#\StockBankbook\StockBankbook\bin\zh-Hant\EntityFramework.resources.dll
+F:\C#\StockBankbook\StockBankbook\bin\zh-Hant\System.Web.Helpers.resources.dll
+F:\C#\StockBankbook\StockBankbook\bin\zh-Hant\System.Web.Mvc.resources.dll
+F:\C#\StockBankbook\StockBankbook\bin\zh-Hant\System.Web.Optimization.resources.dll
+F:\C#\StockBankbook\StockBankbook\bin\zh-Hant\System.Web.Razor.resources.dll
+F:\C#\StockBankbook\StockBankbook\bin\zh-Hant\System.Web.WebPages.resources.dll
+F:\C#\StockBankbook\StockBankbook\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+F:\C#\StockBankbook\StockBankbook\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+F:\C#\StockBankbook\StockBankbook\obj\Debug\StockBankbook.csproj.AssemblyReference.cache
+F:\C#\StockBankbook\StockBankbook\obj\Debug\StockBankbook.csproj.CoreCompileInputs.cache
+F:\C#\StockBankbook\StockBankbook\obj\Debug\StockBankbook.csproj.CopyComplete
+F:\C#\StockBankbook\StockBankbook\obj\Debug\StockBankbook.dll
+F:\C#\StockBankbook\StockBankbook\obj\Debug\StockBankbook.pdb
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\StockBankbook.dll.config
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\StockBankbook.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\StockBankbook.pdb
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\csc.exe
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\csc.exe.config
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\csc.rsp
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\csi.exe
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\csi.exe.config
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\csi.rsp
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\Microsoft.Managed.Core.targets
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.AppContext.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Collections.Immutable.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Console.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Globalization.Calendars.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.IO.Compression.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.IO.FileSystem.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Net.Http.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Net.Sockets.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Reflection.Metadata.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.ValueTuple.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Xml.XmlDocument.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Xml.XPath.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\vbc.exe
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\vbc.exe.config
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\vbc.rsp
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\VBCSCompiler.exe
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\roslyn\VBCSCompiler.exe.config
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\Antlr3.Runtime.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\EntityFramework.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\EntityFramework.SqlServer.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\Microsoft.Web.Infrastructure.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\Newtonsoft.Json.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\System.Web.Helpers.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\System.Web.Mvc.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\System.Web.Optimization.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\System.Web.Razor.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\System.Web.WebPages.Deployment.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\System.Web.WebPages.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\System.Web.WebPages.Razor.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\WebGrease.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\EntityFramework.xml
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\EntityFramework.SqlServer.xml
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\System.Web.Helpers.xml
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\System.Web.Mvc.xml
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\System.Web.Optimization.xml
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\System.Web.Razor.xml
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\System.Web.WebPages.xml
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\System.Web.WebPages.Deployment.xml
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\System.Web.WebPages.Razor.xml
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\Newtonsoft.Json.xml
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\Antlr3.Runtime.pdb
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\zh-Hant\EntityFramework.resources.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\zh-Hant\System.Web.Helpers.resources.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\zh-Hant\System.Web.Mvc.resources.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\zh-Hant\System.Web.Optimization.resources.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\zh-Hant\System.Web.Razor.resources.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\zh-Hant\System.Web.WebPages.resources.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\obj\Debug\StockBankbook.csproj.AssemblyReference.cache
+F:\C#\StockBankbook (Interview)\StockBankbook\obj\Debug\StockBankbook.csproj.CoreCompileInputs.cache
+F:\C#\StockBankbook (Interview)\StockBankbook\obj\Debug\StockBankbook.csproj.CopyComplete
+F:\C#\StockBankbook (Interview)\StockBankbook\obj\Debug\StockBankbook.dll
+F:\C#\StockBankbook (Interview)\StockBankbook\obj\Debug\StockBankbook.pdb

@@ -1,0 +1,14 @@
+﻿fieldset {
+    /*border-color: #F00;
+    border: 5px ;
+    background-color:#ff6a00;*/
+    border: 2px solid;
+    border-radius: 8px;
+    display: inline;
+    padding: 5px;
+}
+legend {
+    float: initial;
+    display: inline;
+    width: auto;
+}

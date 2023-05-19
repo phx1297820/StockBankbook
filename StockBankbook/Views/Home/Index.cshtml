@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>股票存摺</title>
+    <script src="~/JS/IndexJS.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.4.0/axios.min.js"></script>
+    <link rel="stylesheet" href="~/CSS/IndexCSS.css">
+</head>
+<body onload="loadBankbook()">
+    <h2>股票存摺</h2>
+    <!--顯示當前投入損益 -->
+    <div>
+        <label class="tittle">帳戶資訊</label>
+        <table id="Info">
+            <thead>
+                <tr>
+                    <th>現金餘額</th>
+                    <th>股票總值</th>
+                    <th>帳戶總值</th>
+                    <th>累計存入</th>
+                    <th>投報率</th>
+                </tr>
+            </thead>
+            <tbody id="InfoContent"></tbody>
+        </table>
+    </div>
+
+    <!--顯示目前持股 -->
+    <div class="table-container">
+        <label class="tittle">持股明細</label>
+        <table id="Stock">
+            <thead>
+                <tr>
+                    <th>股票代碼</th>
+                    <th>股票名稱</th>
+                    <th>持有數量</th>
+                    <th>平均成本</th>
+                </tr>
+            </thead>
+            <tbody id="StockContent"></tbody>
+        </table>
+        <button id="edit" class="edit-button" onclick="EditOrFinish()">Edit</button>
+    </div>
+</body>
+</html>
+

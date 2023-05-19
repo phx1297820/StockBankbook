@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>歷史紀錄</title>
+    <script src="~/JS/HistoryJS.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.4.0/axios.min.js"></script>
+    <link rel="stylesheet" href="~/CSS/HistoryCSS.css">
+</head>
+<body onload="loadHistory()">
+    
+    <div class="table-container">
+        <h2>歷史紀錄</h2>
+        <table id="History">
+            <thead>
+                <tr>
+                    <th>編號</th>
+                    <th>日期</th>
+                    <th>摘要</th>
+                    <th>金額</th>
+                    <th>結餘</th>
+                </tr>
+            </thead>
+            <tbody id="HistoryContent"></tbody>
+        </table>
+        <button id="edit" class="edit-button" onclick="ChangeMode()">Edit</button>
+    </div>
+    <br />
+    <nav aria-label="Page navigation example">
+        <ul class="pagination" id="pagination">
+        </ul>
+    </nav>
+
+</body>
+</html>
+

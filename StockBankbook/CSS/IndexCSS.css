@@ -1,0 +1,62 @@
+﻿html {
+    font-size: 16px;
+}
+
+table {
+    border: 3px solid;
+}
+
+th {
+    border: 2px solid;
+    background-color: #D2D2D2;
+    padding: 5px;
+}
+
+tr {
+    border: 2px solid;
+}
+
+    tr:nth-child(odd) {
+        background-color: #f2f2f2;
+    }
+
+    tr:nth-child(even) {
+        background-color: #ffffff;
+    }
+
+td {
+    border: 2px groove;
+    padding: 5px;
+}
+
+.tittle{
+    font-size:20px;
+}
+
+.active{
+    background-color:#0521ca
+}
+
+.table-container {
+    position: relative;
+    display: inline-block;
+}
+
+.edit-button {
+    background: none;
+    border: none;
+    color: blue;
+    padding: 0;
+    font: inherit;
+    outline: inherit;
+    text-decoration: underline;
+
+    position: absolute; 
+    height: 20px;
+    top: 5px; 
+    right: 3px;
+}
+
+.edit-mode{
+    color: gray;
+}
